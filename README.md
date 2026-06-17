@@ -1,6 +1,6 @@
 # Internet Speed Test Logger
 
-Logs download/upload/ping speed every 15 minutes to a CSV
+Logs download/upload/ping speed every 15 minutes to a CSV also logs the server sponsor and location. Designed to be used on Windows.
 
 ## Setup
 
